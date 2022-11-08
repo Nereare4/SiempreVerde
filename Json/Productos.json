@@ -1,0 +1,113 @@
+[{
+        "id": 1,
+        "imagen": "../Imagenes/interior/bonsai.png",
+        "nombre": "Bonsai",
+        "precio": "150",
+        "interior": true
+    },
+    {
+        "id": 2,
+        "imagen": "../Imagenes/exterior/aloevera.png",
+        "nombre": "Aloe Vera",
+        "precio": "35",
+        "interior": false
+    },
+    {
+        "id": 3,
+        "imagen": "../Imagenes/interior/bonsai2.png",
+        "nombre": "Bonsai",
+        "precio": "430",
+        "interior": true
+    },
+    {
+        "id": 4,
+        "imagen": "../Imagenes/exterior/Palmeradefrutosdeoro.png",
+        "nombre": "Palmera de frutos de oro",
+        "precio": "56",
+        "interior": false
+    },
+    {
+        "id": 5,
+        "imagen": "../Imagenes/interior/Cactus2.png",
+        "nombre": "Cactus",
+        "precio": "3",
+        "interior": true
+    },
+    {
+        "id": 6,
+        "imagen": "../Imagenes/exterior/pensamientos.png",
+        "nombre": "Pensamientos",
+        "precio": "30",
+        "interior": false
+    },
+    {
+        "id": 7,
+        "imagen": "../Imagenes/interior/cactus.png",
+        "nombre": "Cactus",
+        "precio": "5",
+        "interior": true
+    },
+    {
+        "id": 8,
+        "imagen": "../Imagenes/exterior/pensamientos2.png",
+        "nombre": "Pensamientos",
+        "precio": "34",
+        "interior": false
+    },
+    {
+        "id": 9,
+        "imagen": "../Imagenes/interior/EuphorbiaPulcherrima.png",
+        "nombre": "Euphorbia Pulcherrima",
+        "precio": "10",
+        "interior": true
+    },
+    {
+        "id": 10,
+        "imagen": "../Imagenes/exterior/rosal1.png",
+        "nombre": "Rosal",
+        "precio": "345",
+        "interior": false
+    },
+    {
+        "id": 11,
+        "imagen": "../Imagenes/interior/lenguaDeSuegra.png",
+        "nombre": "Lengua de Suegra",
+        "precio": "43",
+        "interior": true
+    },
+    {
+        "id": 12,
+        "imagen": "../Imagenes/exterior/rosal3.png",
+        "nombre": "Rosal",
+        "precio": "2456",
+        "interior": false
+    },
+    {
+        "id": 13,
+        "imagen": "../Imagenes/interior/Orquidea.png",
+        "nombre": "Orquidea",
+        "precio": "14",
+        "interior": true
+    },
+    {
+        "id": 14,
+        "imagen": "../Imagenes/exterior/morera.png",
+        "nombre": "Morera",
+        "precio": "34",
+        "interior": false
+    },
+    {
+        "id": 15,
+        "imagen": "../Imagenes/interior/YuccaElephantipes.png",
+        "nombre": "Yucca",
+        "precio": "50",
+        "interior": true
+    },
+    {
+        "id": 16,
+        "imagen": "../Imagenes/exterior/vivaces.png",
+        "nombre": "Vivaces",
+        "precio": "34",
+        "interior": false
+    }
+]

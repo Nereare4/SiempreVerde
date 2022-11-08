@@ -1,0 +1,118 @@
+.tamanyo{
+    font-size: 2em;
+}
+.index{
+    position: fixed;
+    z-index: 100;
+}
+.fondologin{
+    position: fixed;
+    z-index: 50;
+    /* opacity: 0.5; */
+}
+.botonColor{
+    background-color:darkolivegreen ;
+    border-color: darkolivegreen;
+}
+.bordeColor{
+    border-color: darkolivegreen;
+    color: darkolivegreen;
+}
+.footer{
+    background-color: #DBFFD6;
+}
+
+            /* Burbujas :) */
+@keyframes burbujas {
+    0%{
+        top: 0;
+        opacity: 1; 
+        transform: rotate(0deg);
+    }
+    50%{
+        opacity: 0.5;
+    }
+    100%{
+        top: 100vh;
+        opacity: 0;
+        transform: rotate(360deg);
+    }
+}
+
+.burbuja{
+    background-image: url("../Imagenes/cookie.png");
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+
+    position: absolute;
+    top: 0;
+
+    animation: burbujas 3s infinite;
+    z-index: -1;
+}
+
+.burbuja:nth-child(1){
+    width: 80px;
+    height: 80px;
+    left: 5%;
+    animation-duration: 6s;
+    animation-delay: 3s;
+}
+
+.burbuja:nth-child(2){
+    width: 100px;
+    height: 100px;
+    left: 35%;
+    animation-duration: 6s;
+    animation-delay: 5s;
+}
+
+.burbuja:nth-child(3){
+    width: 20px;
+    height: 20px;
+    left: 15%;
+    animation-duration: 3s;
+    animation-delay: 7s;
+}
+
+.burbuja:nth-child(4){
+    width: 6vw;
+    height: 6vw;
+    left: 85%;
+    animation-duration: 12s;
+    animation-delay: 3s;
+}
+
+.burbuja:nth-child(5){
+    width: 70px;
+    height: 70px;
+    left: 20%;
+    animation-duration: 6s;
+    animation-delay: 1s;
+}
+
+.burbuja:nth-child(6){
+    width: 20px;
+    height: 20px;
+    left: 50%;
+    animation-duration: 8s;
+    animation-delay: 5s;
+}
+
+.burbuja:nth-child(7){
+    width: 35px;
+    height: 35px;
+    left: 75%;
+    animation-duration: 6s;
+    animation-delay: 2s;
+}
+
+.burbuja:nth-child(8){
+    width: 70px;
+    height: 70px;
+    left: 54%;
+    animation-duration: 10s;
+    animation-delay: 5s;
+}

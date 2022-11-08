@@ -1,0 +1,7 @@
+Usuraios y contraseñas: 
+	["admin", "admin"],
+      	["Paco", "paco"],
+      	["Susana", "profe"]
+
+Esta página web tiene audios en algunas páginas por lo que recomendamos que 
+suba el volumen y disfrute :)
